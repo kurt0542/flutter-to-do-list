@@ -60,7 +60,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Colors.yellow[200],
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: Text('notes application'),
+        title: Text('To Do List'),
         elevation: 0,
       ),
       floatingActionButton: FloatingActionButton(
